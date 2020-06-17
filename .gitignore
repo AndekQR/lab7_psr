@@ -1,0 +1,9 @@
+fireBrigadeDgraph/src/main/resources/googleKey.json
+fireBrigadeDgraph/target
+fireBrigadeDgraph/.idea
+fireBrigadeNeo4j/.idea
+fireBrigadeNeo4j/target
+!fireBrigadeDgraph/src
+!fireBrigadeNeo4j/src
+fireBrigadeDgraph/fireBrigadeDgraph.iml
+fireBrigadeNeo4j/fireBrigadeNeo4j.iml
